@@ -30,13 +30,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sang\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sang\&layout=compact)
 
 ---
 
 ## 📫 Contact
 
 * 📧 [Sanghs5927@gmail.com](mailto:Sanghs5927@gmail.com)
-* 💻 GitHub: https://github.com/Sang
+* 💻 GitHub: https://github.com/Sang-5AN9
