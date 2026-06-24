@@ -23,7 +23,6 @@
 * Python
 * Data Science
 * Machine Learning
-* Linux & Open Source
 * Git/GitHub
 
 ---
